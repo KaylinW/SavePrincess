@@ -1011,3 +1011,62 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.09.26-03.54.22:774][401]AssetCheck: New page: Asset Save: multiple assets
 [2022.09.26-03.54.22:774][401]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Test_BuiltData.Test_BuiltData
 [2022.09.26-03.54.22:774][401]LogContentValidation: Display: Validating World /Game/Test.Test
+[2022.09.26-03.56.12:491][ 42]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.09.26-03.56.12:498][ 42]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.09.26-03.56.12:506][ 42]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.09.26-03.56.18:234][725]LogContentBrowser: Attempting asset rename: NewBlueprint -> SplinePathBP
+[2022.09.26-03.56.18:237][725]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.09.26-03.56.24:708][ 29]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/SplinePathBP.SplinePathBP
+[2022.09.26-03.57.18:553][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/SplinePathBP" FILE="C:/Users/matoo/OneDrive/Documents/GitHub/SavePrincess/SavePrincess/Content/Blueprints/SplinePathBP.uasset" SILENT=true
+[2022.09.26-03.57.18:556][896]LogSavePackage: Moving 'C:/Users/matoo/OneDrive/Documents/GitHub/SavePrincess/SavePrincess/Saved/SplinePathBPFB64565142A4D182842726AD25C1ADF6.tmp' to 'C:/Users/matoo/OneDrive/Documents/GitHub/SavePrincess/SavePrincess/Content/Blueprints/SplinePathBP.uasset'
+[2022.09.26-03.57.18:566][896]AssetCheck: New page: Asset Save: SplinePathBP
+[2022.09.26-03.57.18:566][896]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/SplinePathBP.SplinePathBP
+[2022.09.26-03.57.21:044][190]BlueprintLog: New page: Compile SplinePathBP
+[2022.09.26-03.57.21:068][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.09.26-03.57.21:734][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/SplinePathBP" FILE="C:/Users/matoo/OneDrive/Documents/GitHub/SavePrincess/SavePrincess/Content/Blueprints/SplinePathBP.uasset" SILENT=true
+[2022.09.26-03.57.21:737][260]LogSavePackage: Moving 'C:/Users/matoo/OneDrive/Documents/GitHub/SavePrincess/SavePrincess/Saved/SplinePathBP38BCA8FE41EF485DD6F7FA8870D4D560.tmp' to 'C:/Users/matoo/OneDrive/Documents/GitHub/SavePrincess/SavePrincess/Content/Blueprints/SplinePathBP.uasset'
+[2022.09.26-03.57.21:745][260]AssetCheck: New page: Asset Save: SplinePathBP
+[2022.09.26-03.57.21:745][260]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/SplinePathBP.SplinePathBP
+[2022.09.26-03.57.22:742][370]LogSlate: Window 'SplinePathBP' being destroyed
+[2022.09.26-03.57.22:748][370]LogSlate: Window 'SplinePathBP' being destroyed
+[2022.09.26-03.57.22:749][370]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.09.26-03.57.22:749][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.26-03.57.31:625][309]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.09.26-03.57.31:632][309]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.09.26-03.57.31:639][309]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.09.26-03.57.36:455][886]LogContentBrowser: Attempting asset rename: NewBlueprint -> EnemyBP
+[2022.09.26-03.57.36:458][886]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.09.26-03.57.40:535][370]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/EnemyBP.EnemyBP
+[2022.09.26-03.58.09:359][642]BlueprintLog: New page: Compile EnemyBP
+[2022.09.26-03.58.09:383][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.09.26-03.58.10:001][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemyBP" FILE="C:/Users/matoo/OneDrive/Documents/GitHub/SavePrincess/SavePrincess/Content/Blueprints/EnemyBP.uasset" SILENT=true
+[2022.09.26-03.58.10:004][704]LogSavePackage: Moving 'C:/Users/matoo/OneDrive/Documents/GitHub/SavePrincess/SavePrincess/Saved/EnemyBPF6F22012456C5CD029AF53898698B953.tmp' to 'C:/Users/matoo/OneDrive/Documents/GitHub/SavePrincess/SavePrincess/Content/Blueprints/EnemyBP.uasset'
+[2022.09.26-03.58.10:013][704]AssetCheck: New page: Asset Save: EnemyBP
+[2022.09.26-03.58.10:013][704]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/EnemyBP.EnemyBP
+[2022.09.26-03.58.31:231][119]BlueprintLog: New page: Compile EnemyBP
+[2022.09.26-03.58.31:261][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.09.26-03.58.31:651][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemyBP" FILE="C:/Users/matoo/OneDrive/Documents/GitHub/SavePrincess/SavePrincess/Content/Blueprints/EnemyBP.uasset" SILENT=true
+[2022.09.26-03.58.31:654][159]LogSavePackage: Moving 'C:/Users/matoo/OneDrive/Documents/GitHub/SavePrincess/SavePrincess/Saved/EnemyBP41A8B48D4628EC7DA2FFE09C81A7BB7E.tmp' to 'C:/Users/matoo/OneDrive/Documents/GitHub/SavePrincess/SavePrincess/Content/Blueprints/EnemyBP.uasset'
+[2022.09.26-03.58.31:663][159]AssetCheck: New page: Asset Save: EnemyBP
+[2022.09.26-03.58.31:663][159]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/EnemyBP.EnemyBP
+[2022.09.26-03.58.47:449][948]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.09.26-03.58.47:465][948]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.26-04.00.19:144][886]LogSlate: Took 0.017510 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.09.26-04.00.21:830][177]BlueprintLog: New page: Compile EnemyBP
+[2022.09.26-04.00.21:860][177]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.09.26-04.00.22:290][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemyBP" FILE="C:/Users/matoo/OneDrive/Documents/GitHub/SavePrincess/SavePrincess/Content/Blueprints/EnemyBP.uasset" SILENT=true
+[2022.09.26-04.00.22:294][221]LogSavePackage: Moving 'C:/Users/matoo/OneDrive/Documents/GitHub/SavePrincess/SavePrincess/Saved/EnemyBPF3D78F7149A074E3A458DB95861B8B53.tmp' to 'C:/Users/matoo/OneDrive/Documents/GitHub/SavePrincess/SavePrincess/Content/Blueprints/EnemyBP.uasset'
+[2022.09.26-04.00.22:302][221]AssetCheck: New page: Asset Save: EnemyBP
+[2022.09.26-04.00.22:302][221]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/EnemyBP.EnemyBP
+[2022.09.26-04.00.50:947][444]BlueprintLog: New page: Compile EnemyBP
+[2022.09.26-04.00.50:977][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.09.26-04.02.54:802][790]BlueprintLog: New page: Compile EnemyBP
+[2022.09.26-04.02.54:833][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.09.26-04.02.55:949][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemyBP" FILE="C:/Users/matoo/OneDrive/Documents/GitHub/SavePrincess/SavePrincess/Content/Blueprints/EnemyBP.uasset" SILENT=true
+[2022.09.26-04.02.55:954][907]LogSavePackage: Moving 'C:/Users/matoo/OneDrive/Documents/GitHub/SavePrincess/SavePrincess/Saved/EnemyBP6A02DB1F40B68C010B42F18A388516E8.tmp' to 'C:/Users/matoo/OneDrive/Documents/GitHub/SavePrincess/SavePrincess/Content/Blueprints/EnemyBP.uasset'
+[2022.09.26-04.02.55:964][907]AssetCheck: New page: Asset Save: EnemyBP
+[2022.09.26-04.02.55:964][907]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/EnemyBP.EnemyBP
+[2022.09.26-04.02.56:849][  6]LogSlate: Window 'EnemyBP' being destroyed
+[2022.09.26-04.02.56:854][  6]LogSlate: Window 'EnemyBP' being destroyed
+[2022.09.26-04.02.56:855][  6]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.09.26-04.02.56:855][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
