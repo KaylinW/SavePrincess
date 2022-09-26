@@ -904,3 +904,110 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.09.26-03.35.43:498][877]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Test_BuiltData.Test_BuiltData
 [2022.09.26-03.35.43:498][877]LogContentValidation: Display: Validating World /Game/Test.Test
 [2022.09.26-03.36.34:582][623]LogSlate: Took 0.015409 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.09.26-03.38.14:626][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.09.26-03.43.14:111][782]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.09.26-03.43.14:125][782]LogContentBrowser: Creating deferred item: NewFolder
+[2022.09.26-03.43.22:359][760]LogContentBrowser: Attempting asset rename: NewFolder -> Sprites
+[2022.09.26-03.43.22:359][760]LogContentBrowser: End creating deferred item NewFolder
+[2022.09.26-03.44.34:457][480]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\matoo\Downloads\rutvik.png)
+[2022.09.26-03.44.34:665][480]LogTexture: Display: Building textures: rutvik (BGRA8, 402X527)
+[2022.09.26-03.44.39:025][681]LogMaterial: Display: Missing cached shadermap for rutvik_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: A4D82754E41B8BA3FF01183D85128DB537C49F12), compiling. 
+[2022.09.26-03.44.39:050][681]LogMaterial: Display: Material /Game/Sprites/rutvik_Mat.rutvik_Mat needed to have new flag set bUsedWithStaticLighting !
+[2022.09.26-03.44.39:051][681]LogMaterial: Display: Missing cached shadermap for rutvik_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 642D425551F280CAA050BC9AA151DB751D6A607C), compiling. 
+[2022.09.26-03.44.39:147][681]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.09.26-03.44.39:152][681]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.09.26-03.44.39:152][681]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.09.26-03.44.39:152][681]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2022.09.26-03.44.39:152][681]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2022.09.26-03.44.39:152][681]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2022.09.26-03.44.39:152][681]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.09.26-03.44.40:578][817]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.09.26-03.44.40:578][817]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.09.26-03.44.40:578][817]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.26-03.44.40:578][817]LogShaderCompilers: Display: Total job queries 25, among them cache hits 0 (0.00%)
+[2022.09.26-03.44.40:578][817]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.09.26-03.44.40:578][817]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.09.26-03.44.40:578][817]LogShaderCompilers: Display: ================================================
+[2022.09.26-03.44.40:696][831]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2022.09.26-03.44.40:696][831]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.09.26-03.44.41:043][870]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2022.09.26-03.44.41:043][870]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.09.26-03.44.41:721][951]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2022.09.26-03.44.41:721][951]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.09.26-03.44.41:739][953]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2022.09.26-03.44.41:739][953]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.09.26-03.44.41:881][970]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2022.09.26-03.44.41:882][970]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.09.26-03.44.41:984][982]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2022.09.26-03.44.41:984][982]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.09.26-03.44.42:696][ 67]Cmd: TRANSACTION UNDO
+[2022.09.26-03.44.42:696][ 67]LogEditorTransaction: Undo Create Actors
+[2022.09.26-03.44.54:536][389]LogContentBrowser: Deferred new asset file creation: NewPaperSprite
+[2022.09.26-03.44.54:542][389]LogContentBrowser: Creating deferred item: NewPaperSprite
+[2022.09.26-03.45.03:571][466]LogContentBrowser: Attempting asset rename: NewPaperSprite -> TestSprite
+[2022.09.26-03.45.03:641][466]LogContentBrowser: End creating deferred item NewPaperSprite
+[2022.09.26-03.45.04:756][589]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/Sprites/TestSprite.TestSprite
+[2022.09.26-03.45.04:929][589]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.09.26-03.45.04:984][589]LogSlate: Took 0.000111 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.26-03.45.18:437][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/TestSprite" FILE="C:/Users/matoo/OneDrive/Documents/GitHub/SavePrincess/SavePrincess/Content/Sprites/TestSprite.uasset" SILENT=true
+[2022.09.26-03.45.18:453][ 91]LogSavePackage: Moving 'C:/Users/matoo/OneDrive/Documents/GitHub/SavePrincess/SavePrincess/Saved/TestSprite0FF437724410CFF4E08D4ABFC2380402.tmp' to 'C:/Users/matoo/OneDrive/Documents/GitHub/SavePrincess/SavePrincess/Content/Sprites/TestSprite.uasset'
+[2022.09.26-03.45.18:462][ 91]AssetCheck: New page: Asset Save: TestSprite
+[2022.09.26-03.45.18:462][ 91]LogContentValidation: Display: Validating PaperSprite /Game/Sprites/TestSprite.TestSprite
+[2022.09.26-03.45.19:964][268]LogSlate: Window 'TestSprite' being destroyed
+[2022.09.26-03.45.19:967][268]LogSlate: Window 'TestSprite' being destroyed
+[2022.09.26-03.45.19:968][268]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.09.26-03.45.19:968][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.26-03.45.25:908][963]Cmd: TRANSACTION UNDO
+[2022.09.26-03.45.25:908][963]LogEditorTransaction: Undo Move Actors
+[2022.09.26-03.45.26:453][994]Cmd: TRANSACTION UNDO
+[2022.09.26-03.45.26:453][994]LogEditorTransaction: Undo Create Actors
+[2022.09.26-03.45.52:921][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.09.26-03.45.52:922][404]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Test' took 0.007
+[2022.09.26-03.45.52:922][404]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/rutvik] ([1] browsable assets)...
+[2022.09.26-03.45.52:927][404]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sprites/rutvik.rutvik]
+[2022.09.26-03.45.52:927][404]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/rutvik]
+[2022.09.26-03.45.52:927][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/rutvik" FILE="C:/Users/matoo/OneDrive/Documents/GitHub/SavePrincess/SavePrincess/Saved/Autosaves/Game/Sprites/rutvik_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.09.26-03.45.52:929][404]LogSavePackage: Moving 'C:/Users/matoo/OneDrive/Documents/GitHub/SavePrincess/SavePrincess/Saved/rutvik_Auto1CB6608604ADCD7F569A99D98A0B400F4.tmp' to 'C:/Users/matoo/OneDrive/Documents/GitHub/SavePrincess/SavePrincess/Saved/Autosaves/Game/Sprites/rutvik_Auto1.uasset'
+[2022.09.26-03.45.52:929][404]LogFileHelpers: Auto-saving content packages took 0.007
+[2022.09.26-03.50.36:737][493]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.09.26-03.50.36:747][493]LogContentBrowser: Creating deferred item: NewFolder
+[2022.09.26-03.50.47:410][  2]LogContentBrowser: Attempting asset rename: NewFolder -> Blu
+[2022.09.26-03.50.47:411][  2]LogContentBrowser: End creating deferred item NewFolder
+[2022.09.26-03.50.56:664][ 34]LogContentBrowser: Attempting asset rename: Blu -> Blueprints
+[2022.09.26-03.52.01:928][698]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.26-03.52.02:973][698]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.09.26-03.52.02:979][698]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.09.26-03.52.02:984][698]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.09.26-03.52.08:966][411]LogContentBrowser: Attempting asset rename: NewBlueprint -> Spawner
+[2022.09.26-03.52.08:969][411]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.09.26-03.52.25:276][298]LogContentBrowser: Attempting asset rename: Spawner -> SpawnerBP
+[2022.09.26-03.52.25:310][298]LogMetaData: Removing '/Game/Blueprints/SpawnerBP.SpawnerBP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Spawner.PackageMetaData'
+[2022.09.26-03.52.25:310][298]LogMetaData: Removing '/Game/Blueprints/SpawnerBP.SKEL_SpawnerBP_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Spawner.PackageMetaData'
+[2022.09.26-03.52.25:310][298]LogMetaData: Removing '/Game/Blueprints/SpawnerBP.SKEL_SpawnerBP_C' ref from Metadata '/Game/Blueprints/Spawner.PackageMetaData'
+[2022.09.26-03.52.25:310][298]LogMetaData: Removing '/Game/Blueprints/SpawnerBP.SpawnerBP_C' ref from Metadata '/Game/Blueprints/Spawner.PackageMetaData'
+[2022.09.26-03.52.25:310][298]LogMetaData: Removing '/Game/Blueprints/SpawnerBP.SpawnerBP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Spawner.PackageMetaData'
+[2022.09.26-03.52.25:310][298]LogMetaData: Removing '/Game/Blueprints/SpawnerBP.SpawnerBP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Spawner.PackageMetaData'
+[2022.09.26-03.52.25:310][298]LogMetaData: Removing '/Game/Blueprints/SpawnerBP.SpawnerBP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Spawner.PackageMetaData'
+[2022.09.26-03.52.25:320][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/SpawnerBP" FILE="C:/Users/matoo/OneDrive/Documents/GitHub/SavePrincess/SavePrincess/Content/Blueprints/SpawnerBP.uasset" SILENT=true
+[2022.09.26-03.52.25:336][298]LogSavePackage: Moving 'C:/Users/matoo/OneDrive/Documents/GitHub/SavePrincess/SavePrincess/Saved/SpawnerBPAAB1CB0749115707C8FBE6B3B057B4BD.tmp' to 'C:/Users/matoo/OneDrive/Documents/GitHub/SavePrincess/SavePrincess/Content/Blueprints/SpawnerBP.uasset'
+[2022.09.26-03.52.25:379][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.09.26-03.52.25:389][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.09.26-03.52.25:393][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.26-03.52.25:424][298]AssetCheck: New page: Asset Save: SpawnerBP
+[2022.09.26-03.52.25:424][298]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/SpawnerBP.SpawnerBP
+[2022.09.26-03.52.26:604][438]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/SpawnerBP.SpawnerBP
+[2022.09.26-03.52.26:887][438]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2022.09.26-03.53.42:386][ 64]BlueprintLog: New page: Compile SpawnerBP
+[2022.09.26-03.53.42:410][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.09.26-03.54.20:000][117]LogSlate: Window 'SpawnerBP' being destroyed
+[2022.09.26-03.54.20:005][117]LogSlate: Window 'SpawnerBP' being destroyed
+[2022.09.26-03.54.20:007][117]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.09.26-03.54.20:007][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.26-03.54.22:732][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test" FILE="C:/Users/matoo/OneDrive/Documents/GitHub/SavePrincess/SavePrincess/Content/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.26-03.54.22:745][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.09.26-03.54.22:751][401]LogSavePackage: Moving 'C:/Users/matoo/OneDrive/Documents/GitHub/SavePrincess/SavePrincess/Saved/TestF074628947DA1EBE998EF59E3603B70A.tmp' to 'C:/Users/matoo/OneDrive/Documents/GitHub/SavePrincess/SavePrincess/Content/Test.umap'
+[2022.09.26-03.54.22:754][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test_BuiltData" FILE="C:/Users/matoo/OneDrive/Documents/GitHub/SavePrincess/SavePrincess/Content/Test_BuiltData.uasset" SILENT=true
+[2022.09.26-03.54.22:762][401]LogSavePackage: Moving 'C:/Users/matoo/OneDrive/Documents/GitHub/SavePrincess/SavePrincess/Saved/Test_BuiltData51BD47854749F9F5C4C96EB50488F4DC.tmp' to 'C:/Users/matoo/OneDrive/Documents/GitHub/SavePrincess/SavePrincess/Content/Test_BuiltData.uasset'
+[2022.09.26-03.54.22:774][401]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.26-03.54.22:774][401]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Test_BuiltData.Test_BuiltData
+[2022.09.26-03.54.22:774][401]LogContentValidation: Display: Validating World /Game/Test.Test
